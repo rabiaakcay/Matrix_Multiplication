@@ -1,0 +1,3 @@
+﻿  matrix_multiplication.cpp
+c1xx : warning C4199: iki aşamalı ad arama C++/CLI, C++/CX veya OpenMP için desteklenmiyor; /Zc:twoPhase- kullanın
+  matrix_multiplication.vcxproj -> C:\Users\akcay\Desktop\330123-RabiaAkcay-1Ogr\matrix_multiplication\Debug\matrix_multiplication.exe
