@@ -1,1 +1,1 @@
-# Matrix_Multiplication
+# Parallel-Matrix-Multiplication
